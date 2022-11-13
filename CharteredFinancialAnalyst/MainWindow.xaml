@@ -1,0 +1,24 @@
+﻿<Window x:Class="CharteredFinancialAnalyst.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CharteredFinancialAnalyst"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="576" Width="899">
+    <Grid>
+        <TabControl>
+            <TabItem Header="CFAExamI">
+                <Grid Background="#FFE5E5E5" Margin="0,0,10,21" Height="527">
+                    <Image Margin="3,2,10,26" Source="/CFASlide1.jpg" Stretch="Fill"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="CFAExamII">
+                <Grid Background="#FFE5E5E5">
+                    <Image Margin="3,2,5,5" Source="/CFALevel_II_Exam.jpg" Stretch="Fill"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
