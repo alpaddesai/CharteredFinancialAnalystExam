@@ -6,8 +6,6 @@ The project provides an overview of the CFA exam
 
 ![image](QuantitativeMethods.jpg)
 
-![image](CFAExam.jpg)
-
 ![image](CFASlide1.jpg)
 
 ![image](CFALevel_II_Exam.jpg)
