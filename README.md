@@ -1,4 +1,4 @@
-# Chartered Financial Analyst  2022
+# Chartered Financial Analyst  
 
 The project provides an overview of the CFA exam 
 
