@@ -6,6 +6,8 @@ The project provides an overview of the CFA exam
 
 ![image](CFAExam.jpg)
 
+![image](CFARegistered.jpg)
+
 ![image](CFAExamAcknowledgement.jpg)
 
 ![image](CFALevel_II_Exam.jpg)
