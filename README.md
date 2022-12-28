@@ -16,6 +16,8 @@ The project provides an overview of the CFA exam
 
 ![image](SlidesCFAExamIII.jpg)
 
+![image](BloombergIII.jpg)
+
 ![image](Ethics.jpg)
 
 ![image](USCopyrightCertificate.png)
