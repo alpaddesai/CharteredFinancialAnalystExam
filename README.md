@@ -11,7 +11,6 @@ The project provides an overview of the CFA exam
 ![image](CFAExamAcknowledgement.jpg)
 
 ![image](CFALevel_II_Exam.jpg)
-
 ![image](CFALevel_II.jpg)
 
 ![image](SlidesCFAExamIII.jpg)
