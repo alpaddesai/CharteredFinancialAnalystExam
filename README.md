@@ -18,7 +18,7 @@ The project provides an overview of the CFA exam
 
 ![image](ExamResults.jpg)
 
-![image](Time.jpg)
+![image](Ilikedmytime.jpg)
 
 ![image](Ethics.jpg)
 
