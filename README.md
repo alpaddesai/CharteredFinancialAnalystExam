@@ -18,7 +18,7 @@ The project provides an overview of the CFA exam
 
 ![image](ExamResults.jpg)
 
-## Time spent - click.
+#### Time spent - click.
 
 ![image](Ilikedmytime.jpg)
 
