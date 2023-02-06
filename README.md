@@ -22,4 +22,4 @@ The project provides an overview of the CFA exam
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/EthicalProfessionalStandards
+Popular project: https://github.com/alpaddesai/GraduateManagementAptitudeTest https://github.com/alpaddesai/EthicalProfessionalStandards
