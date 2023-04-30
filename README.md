@@ -18,6 +18,8 @@ The project provides an overview of the CFA exam
 
 ![image](ExamResults.jpg)
 
+![image](CFAExamResults.jpg)
+
 ![image](Ethics.jpg)
 
 ![image](USCopyrightCertificate.png)
