@@ -20,6 +20,9 @@ The project provides an overview of the CFA exam
 
 ![image](CFAExamResults.jpg)
 
+## practice test 2023
+![image](CFALevelIPracticeTest2023.jpg)
+
 ![image](Ethics.jpg)
 
 ![image](USCopyrightCertificate.png)
