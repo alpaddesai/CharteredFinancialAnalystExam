@@ -20,10 +20,10 @@ The project provides an overview of the CFA exam
 
 ![image](CFAExamResults.jpg)
 
-## Practice test 2023
+## Practice test level I 2023
 ![image](CFALevelIPracticeTest2023.jpg)
 
-## Practice test 2023
+## Practice test level II 2023
 ![image](PracticeTestCFAII.jpg)
 
 ![image](Ethics.jpg)
