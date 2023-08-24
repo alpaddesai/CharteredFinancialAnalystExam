@@ -29,6 +29,9 @@ The project provides an overview of the CFA exam
 ## Practice test level III 2023
 ![image](practiceCFAlevelIII.jpg)
 
+## Practice test level I 2023
+![image](CFAExamIndia.jpg)
+
 ![image](Ethics.jpg)
 
 ![image](USCopyrightCertificate.png)
